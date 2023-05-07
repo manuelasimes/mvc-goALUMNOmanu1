@@ -1,0 +1,10 @@
+package main //funcion donde corre el prpgrama 
+
+import "fmt" 
+
+
+func main () {
+
+fmt.PrintIn("hola ucc")
+
+}
